@@ -1,5 +1,1 @@
-chmod
-sudo
-su
-chown
-chgrp
+#!/bin/bash su betty
