@@ -1,1 +1,1 @@
-changes the owner to vincent and the group owner to staff
+changes the owner and the group owner 
