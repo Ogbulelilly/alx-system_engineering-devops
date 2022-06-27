@@ -1,1 +1,1 @@
-display the contents list of my current directory
+display current directory contents in a long format
