@@ -1,1 +1,1 @@
-duplicate the last line of the iacta
+deletes all the regular files
