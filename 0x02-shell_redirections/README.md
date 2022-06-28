@@ -1,1 +1,1 @@
-displays all users and their home directories
+creates a file named
