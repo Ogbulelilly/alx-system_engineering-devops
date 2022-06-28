@@ -1,1 +1,1 @@
-list of words as input and prints only words that appear exactly once
+display lines containing the pattern “root” from the file
