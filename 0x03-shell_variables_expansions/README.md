@@ -1,1 +1,1 @@
- lists environment variables
+ creates a new local variable
