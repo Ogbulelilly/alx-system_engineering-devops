@@ -1,1 +1,1 @@
-creates a directory named my_first_directory
+betty in my first directory
