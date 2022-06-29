@@ -1,1 +1,1 @@
-the path to success is to take massive, determined action
+counts the number of directories in the PATH
